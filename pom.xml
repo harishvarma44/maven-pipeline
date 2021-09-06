@@ -206,10 +206,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:</connection>
+    <developerConnection>scm:git:git@github.com:harishvarma44/maven-pipeline.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>http://github.com/harishvarma44/maven-pipeline</url>
   </scm>
 
   <prerequisites>
