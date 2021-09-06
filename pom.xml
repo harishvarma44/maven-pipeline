@@ -206,10 +206,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:</connection>
-    <developerConnection>scm:git:git@github.com:harishvarma44/maven-pipeline.git</developerConnection>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/maven/plugins/tags/maven-clean-plugin-2.5</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/maven/plugins/tags/maven-clean-plugin-2.5</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/harishvarma44/maven-pipeline</url>
+    <url>http://svn.apache.org/viewvc/maven/plugins/tags/maven-clean-plugin-2.5</url>
   </scm>
 
   <prerequisites>
